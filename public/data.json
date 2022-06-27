@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Summer Art Camp! 5Days of Artists and Painting Monet, Van Gogh, Matisse, & More",
+    "subTitle": "Multi-Day Course",
+    "description": "In this 5 day class we will explore artists Monet, Matisse, Van Gogn, among others and then recreate paintings using crayon and watercolor. Students will have fun learning about the artists & creating their own art inspired by their work.",
+    "profile": {
+      "avatar": "https://www.w3schools.com/howto/img_avatar2.png",
+      "name": "Kimberly R Moseler"
+    },
+    "rating": 5,
+    "img": {
+      "link1": "https://i.ibb.co/3dxJT9t/the-starry-night-by-van-gogh-original-oil-reproduction-arina-yastrebova.jpg",
+      "link2": "https://i.ibb.co/cckrSDM/559410-poster-l.jpg",
+      "link3": "https://i.ibb.co/yqTCVwQ/120px-Water-Lilies-and-Japanese-Bridge-1897-1899-Monet.jpg"
+    }
+  }
+]
